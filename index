@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Samool Development</title>
+  <title> Samool</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet" />
   <style>
     :root{
@@ -295,7 +295,7 @@
                 <div class="meta">My attempt to have an ad-free browsing experience.</div>
               </div>
             </div>
-            <p>  Experience an add free experience with Samool Ad-Blocker! </div>
+            <p>  Experience an ad-free experience with Samool Ad-Blocker! </div>
             <div class="badges">
               <a class="store" href="#">Chrome</a>
               <a class="store" href="#">Firefox</a>
@@ -417,5 +417,3 @@
   </script>
 </body>
 </html>
-
-
